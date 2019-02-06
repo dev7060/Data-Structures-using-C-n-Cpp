@@ -34,8 +34,6 @@ int main(){
         //time to print the new list
         cout<<"\nList now is:\n";
         if(start==NULL){
-            //just for a tradition purpose
-            //ptr will never be NULL here
             cout<<"List is empty!";
             exit(0);
         }
